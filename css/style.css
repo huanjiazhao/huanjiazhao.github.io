@@ -37,7 +37,7 @@ code{background-color:#f8f8f8;border-radius:2px;color:#e96900;font-family:Source
 .left,.alignleft{float:left;}
 .right,.alignright{float:right;}
 .clear{clear:both;}
-.logo{background-image:url(/images/white-rose.png);background-position:0 10px;background-repeat:no-repeat;-webkit-background-size:120px 120px;-moz-background-size:120px 120px;background-size:120px 120px;display:block;height:120px;padding:10px 0;width:120px;}
+.logo{background-image:url(/images/logo.png);background-position:0 10px;background-repeat:no-repeat;-webkit-background-size:120px 120px;-moz-background-size:120px 120px;background-size:120px 120px;display:block;height:120px;padding:10px 0;width:120px;}
 .main-body{background-color:#fff;margin-top:-60px;}
 .main-body-inner{background:url(images/s-left.png) repeat-y right 0;-webkit-box-shadow:rgba(0,0,0,0.098) 0 1px 1px 0;box-shadow:rgba(0,0,0,0.098) 0 1px 1px 0;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding-right:338px;position:relative;}
 .main-body-inner:before,.main-body-inner:after{content:"";display:table;}
@@ -52,7 +52,7 @@ code{background-color:#f8f8f8;border-radius:2px;color:#e96900;font-family:Source
 #header{background:#3626a7;padding-bottom:60px;position:relative;}
 #header-outer{height:100%;position:relative;}
 #header-inner{position:relative;}
-#header-title{background-image:url(/images/ui/banner.png);-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;padding:30px;text-align:center;}
+#header-title{background-image:url(/images/ui/banner.jpg);-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;padding:30px;text-align:center;}
 #header-title:before,#header-title:after{content:"";display:table;}
 #header-title:after{clear:both;}
 #header-title .logo-wrap,#header-title .subtitle-wrap{float:left;}
