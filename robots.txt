@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /cambridge-satchel/
+Disallow: /fatburn/
+Disallow: /uk-gift/
+Disallow: /lookfantastic-products/
+Disallow: /jay-chou-london-2017/
+Disallow: /graduate-opportunities-for-overseas-students-in-the-uk/
+Disallow: /uk-renting-websites/
+Disallow: /whittard/
+
+Sitemap: http://www.yorkcn.net/sitemap.xml
