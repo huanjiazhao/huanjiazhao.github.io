@@ -52,7 +52,7 @@ code{background-color:#f8f8f8;border-radius:2px;color:#e96900;font-family:Source
 #header{background:#3626a7;padding-bottom:60px;position:relative;}
 #header-outer{height:100%;position:relative;}
 #header-inner{position:relative;}
-#header-title{background-image:url(/images/ui/banner.jpg);-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;padding:30px;text-align:center;}
+#header-title{background-image:url(/images/ui/banner2.png);-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;padding:30px;text-align:center;}
 #header-title:before,#header-title:after{content:"";display:table;}
 #header-title:after{clear:both;}
 #header-title .logo-wrap,#header-title .subtitle-wrap{float:left;}
